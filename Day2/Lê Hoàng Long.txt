@@ -1,0 +1,2 @@
+- Cùng các bạn tìm hiểu các keyword
+- Đại diện nhóm trình bày đề tài, dựa trên bài báo cáo "3rd Workshop on Computer Vision For Fashion, Art and Design" tại hội nghị CVPR Online 2020.
