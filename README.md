@@ -1,8 +1,10 @@
 # CS529.L11.KHCL
-Nhóm N013
 
-Ngô Đức Tuấn - 18520186 - NT
+## CÁC VẤN ĐỀ NGHIÊN CỨU & ỨNG DỤNG TRONG KHMT
+- Nhóm N013
 
-Lê Hoàng Long - 18521027 - TV
-
-Trần Lê Huy - 18520857 - TV
+| Họ tên | MSSV | Ghi chú |
+|--------------|-------|------|
+| Ngô Đức Tuấn | 18520186 | NT |
+| Lê Hoàng Long | 18521027 | TV |
+| Trần Lê Huy | 18520857 | TV |
