@@ -1,0 +1,3 @@
+- Thảo luận với nhóm chọn ra 30 bài báo khoa học về Object dêtction
+- Chọn ra 10 bài có nổi dung nổi bật và dễ hiểu nhất
+- Thuyết trình về nội dung mà nhóm đã làm
