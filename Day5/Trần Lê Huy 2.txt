@@ -1,0 +1,4 @@
+- Làm bài tập
+- Chọn ra 10 bài báo khoa học về object dectection
+- SAu đó chọn ra 3 bài báo nổi bật nhất 
+- Nêu lí do vì sao chọn
