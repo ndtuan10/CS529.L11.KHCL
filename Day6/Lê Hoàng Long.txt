@@ -1,1 +1,1 @@
-
+Tìm hiểu hướng tiếp cận, ưu và nhược điểm Deep learning(One stage và Two stage), Realtime(Retinanet và Centernet).
