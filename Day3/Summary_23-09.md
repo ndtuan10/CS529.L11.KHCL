@@ -1,4 +1,7 @@
 # Tổng kết ngày học 23/9/2020
+
+- Lecture: Thầy Nguyễn Vinh Tiệp
+
 - Điểm danh đầu buổi học
 
 - Nghe giáo viên giới thiệu về research/researcher.
