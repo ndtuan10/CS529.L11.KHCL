@@ -1,4 +1,7 @@
 # Tổng kết ngày học 16/9/2020
+
+- Lecture: Thầy Lê Đình Duy
+
 - Điểm danh đầu buổi học
 
 - Nghe giáo viên giới thiệu về các nguồn tài liệu tin cậy, các hội nghị uy tín về lĩnh vực KHMT.
