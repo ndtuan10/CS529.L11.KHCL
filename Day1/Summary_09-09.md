@@ -1,5 +1,7 @@
 # Tổng kết ngày học 9/9/2020
 
+- Lecture: Thầy Lê Đình Duy
+
 - Điểm danh đầu buổi học
 
 - Làm bảng tên
