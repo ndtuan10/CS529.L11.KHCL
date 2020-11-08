@@ -2,7 +2,7 @@
 
 - Lecture: Cô Nguyễn Thị Quý
 
-Điểm danh cuối buổi
+- Điểm danh cuối buổi
 
 - Tìm hiểu về bài toán Xử lí ngôn ngữ tự nhiên (Natural Language Processing / NLP)
   - Nhiệm vụ của NLP là thiết kế các thuật toán để máy tính có thể hiểu ngôn ngữ tự nhiên.
@@ -15,7 +15,7 @@
   - Semantic analysis.
   - Discourse processing.
   
- - Được giới thiệu về một số bước thực hiện trong NLP:
+- Được giới thiệu về một số bước thực hiện trong NLP:
   - text normalization: stemming / lemmatization.
   - word segmentation / sentence segmentation.
   - part-of-speech (POS).
